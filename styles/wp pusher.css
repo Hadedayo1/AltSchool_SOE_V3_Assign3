@@ -1,0 +1,976 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 1440px;
+}.mask-group-Sn8 {
+  width: 100%;
+  height: 1170px;
+  top: -139px;
+  left: -101;
+}
+.mask-group-Sn8 .wp-pusher-3X2 {
+  box-sizing: border-box;
+  padding: 2.8rem 4rem 13.9rem 4rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f5f8fa;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .nav-bar-G2Q {
+  margin-bottom: 8.5rem;
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .nav-bar-G2Q .auto-group-jyug-Psi {
+  margin-bottom: 3rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .nav-bar-G2Q .auto-group-jyug-Psi .wppusher-logo-copy-KWU {
+  margin-right: 68.4rem;
+  width: 20rem;
+  height: 3.9rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/wppusher-logo-copy.png');
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .nav-bar-G2Q .auto-group-jyug-Psi .navigation-CaG {
+  margin-bottom: 0.1rem;
+  height: 4rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .nav-bar-G2Q .auto-group-jyug-Psi .navigation-CaG .auto-group-ysa4-8yi {
+  box-sizing: border-box;
+  padding: 1.1rem 4.4rem 1.2rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .nav-bar-G2Q .auto-group-jyug-Psi .navigation-CaG .auto-group-ysa4-8yi .download-1g8 {
+  margin-right: 4.2rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.001rem;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .nav-bar-G2Q .auto-group-jyug-Psi .navigation-CaG .auto-group-ysa4-8yi .learn-more-5AC {
+  margin-right: 4.5rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.001rem;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .nav-bar-G2Q .auto-group-jyug-Psi .navigation-CaG .auto-group-ysa4-8yi .pricing-naQ {
+  margin-right: 4.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.001rem;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .nav-bar-G2Q .auto-group-jyug-Psi .navigation-CaG .auto-group-ysa4-8yi .help-76t {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.001rem;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .nav-bar-G2Q .auto-group-jyug-Psi .navigation-CaG .account-RtG {
+  width: 9.1rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.001rem;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #646e7a;
+  box-sizing: border-box;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .nav-bar-G2Q .rectangle-SYU {
+  width: 135.8rem;
+  height: 0.2rem;
+  background-color: #e0e5e9;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr {
+  margin: 0rem 24.6rem 0rem 21.6rem;
+  width: calc(100% - 46.2rem);
+  height: 84.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx {
+  width: 89.2rem;
+  height: 84.5rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e {
+  margin-bottom: 3.3rem;
+  width: 100%;
+  height: 79.5rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.049082879), 0 1.5rem 3.5rem rgba(42, 63, 78, 0.0955049843);
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 {
+  margin: 4.1rem 0rem 4.69rem 0rem;
+  width: 58rem;
+  height: calc(100% - 8.7899rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .title-dWU {
+  margin-bottom: 3.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .title-dWU .checkout-z68 {
+  margin: 0rem 0rem 4.2rem 4.8rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .title-dWU .rectangle-9-copy-5-W4U {
+  width: 100%;
+  height: 0.2rem;
+  background-color: #f5f7fa;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-basic-SD2 {
+  margin-bottom: 3.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-basic-SD2 .auto-group-x1ug-NsN {
+  box-sizing: border-box;
+  padding: 0rem 4.7rem 4.1rem 4.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-basic-SD2 .auto-group-x1ug-NsN .basic-uMW {
+  margin: 0rem 26.3rem 1.3rem 0rem;
+  width: calc(100% - 26.3rem);
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-basic-SD2 .auto-group-x1ug-NsN .basic-uMW .item-1-S6Y {
+  margin-right: 1rem;
+  width: 3rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-basic-SD2 .auto-group-x1ug-NsN .basic-uMW .item-1-S6Y .item-1-NVz {
+  width: 1rem;
+  height: 2rem;
+  position: absolute;
+  left: 1rem;
+  top: 0.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.0142rem;
+  color: #548bc5;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-basic-SD2 .auto-group-x1ug-NsN .basic-uMW .item-1-S6Y .oval-2-rRA {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #548bc5;
+  box-sizing: border-box;
+  border-radius: 1.5rem;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-basic-SD2 .auto-group-x1ug-NsN .basic-uMW .your-basic-informati-9v4 {
+  margin-bottom: 0.4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.016rem;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-basic-SD2 .auto-group-x1ug-NsN .auto-group-ueep-4GL {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-basic-SD2 .auto-group-x1ug-NsN .auto-group-ueep-4GL .first-name-c2x {
+  margin-right: 3rem;
+  width: 22.7rem;
+  height: 100%;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-basic-SD2 .auto-group-x1ug-NsN .auto-group-ueep-4GL .first-name-c2x .first-name-copy-2-x6p {
+  margin-bottom: 0.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-basic-SD2 .auto-group-x1ug-NsN .auto-group-ueep-4GL .first-name-c2x .auto-group-5nap-5hE {
+  box-sizing: border-box;
+  padding: 0.9rem 1.3rem 1rem 1.3rem;
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #646e7a;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #edeff2;
+  border-radius: 0.4rem;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-basic-SD2 .auto-group-x1ug-NsN .auto-group-ueep-4GL .last-name-Yap {
+  width: 22.7rem;
+  height: 100%;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-basic-SD2 .auto-group-x1ug-NsN .auto-group-ueep-4GL .last-name-Yap .last-name-copy-2-uRN {
+  margin-bottom: 0.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-basic-SD2 .auto-group-x1ug-NsN .auto-group-ueep-4GL .last-name-Yap .auto-group-ntq4-EyS {
+  box-sizing: border-box;
+  padding: 0.9rem 1.3rem 1rem 1.3rem;
+  width: 22.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #646e7a;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #edeff2;
+  border-radius: 0.4rem;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-basic-SD2 .auto-group-x1ug-NsN .email-71e {
+  width: 37rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-basic-SD2 .auto-group-x1ug-NsN .email-71e .e-mail-copy-2-4xU {
+  margin-bottom: 0.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-basic-SD2 .auto-group-x1ug-NsN .email-71e .auto-group-nczg-Pzk {
+  box-sizing: border-box;
+  padding: 0.9rem 1.3rem 1rem 1.3rem;
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #646e7a;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #edeff2;
+  border-radius: 0.5rem;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-basic-SD2 .rectangle-9-copy-10-UWQ {
+  width: 100%;
+  height: 0.2rem;
+  background-color: #f5f7fa;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-payment-d8Q {
+  margin-bottom: 3.9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-payment-d8Q .auto-group-htgp-A8L {
+  box-sizing: border-box;
+  padding: 0rem 4.8rem 4.1rem 4.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-payment-d8Q .auto-group-htgp-A8L .payment-ta8 {
+  margin: 0rem 23.3rem 2.1rem 0rem;
+  width: calc(100% - 23.3rem);
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-payment-d8Q .auto-group-htgp-A8L .payment-ta8 .item-2-1Pr {
+  margin-right: 1rem;
+  width: 3rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-payment-d8Q .auto-group-htgp-A8L .payment-ta8 .item-2-1Pr .item-2-xZz {
+  width: 1rem;
+  height: 2rem;
+  position: absolute;
+  left: 1rem;
+  top: 0.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.0142rem;
+  color: #548bc5;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-payment-d8Q .auto-group-htgp-A8L .payment-ta8 .item-2-1Pr .oval-2-copy-35e {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #548bc5;
+  box-sizing: border-box;
+  border-radius: 1.5rem;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-payment-d8Q .auto-group-htgp-A8L .payment-ta8 .your-payment-informa-xCc {
+  margin-bottom: 0.4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.016rem;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-payment-d8Q .auto-group-htgp-A8L .credit-card-4mS {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-payment-d8Q .auto-group-htgp-A8L .credit-card-4mS .credit-card-copy-dJk {
+  margin-bottom: 0.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-payment-d8Q .auto-group-htgp-A8L .credit-card-4mS .auto-group-xmnc-xrp {
+  box-sizing: border-box;
+  padding: 0.9rem 1.6rem 1rem 1.3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #edeff2;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-payment-d8Q .auto-group-htgp-A8L .credit-card-4mS .auto-group-xmnc-xrp .card-number-tkU {
+  margin-right: 26.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #646e7a;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-payment-d8Q .auto-group-htgp-A8L .credit-card-4mS .auto-group-xmnc-xrp .mm-yy-2rg {
+  margin-right: 2.2rem;
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #646e7a;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-payment-d8Q .auto-group-htgp-A8L .credit-card-4mS .auto-group-xmnc-xrp .cvc-kng {
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #646e7a;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .section-payment-d8Q .rectangle-9-copy-11-sMW {
+  width: 100%;
+  height: 0.2rem;
+  background-color: #f5f7fa;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .purchase-nDa {
+  margin: 0rem 4.8rem 0rem 4.9rem;
+  width: calc(100% - 9.7rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .purchase-nDa .button-KDW {
+  width: 100%;
+  height: 5.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.0396rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #038e7d;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .purchase-nDa .auto-group-e6yk-BFi {
+  box-sizing: border-box;
+  padding: 2.3rem 7.5rem 0rem 7.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .purchase-nDa .auto-group-e6yk-BFi .support-HpY {
+  margin-bottom: 3.1rem;
+  width: 100%;
+  height: 2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .purchase-nDa .auto-group-e6yk-BFi .support-HpY .mask-EDz {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .purchase-nDa .auto-group-e6yk-BFi .support-HpY .auto-group-i2bw-NLC {
+  margin: 0.1rem 0rem 0.2rem 0rem;
+  width: 30.3rem;
+  height: calc(100% - 0.3rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .purchase-nDa .auto-group-e6yk-BFi .support-HpY .auto-group-i2bw-NLC .rectangle-11-copy-hNU {
+  width: 9.4rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 20.3rem;
+  top: 1.5rem;
+  background-color: #646e7a;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .purchase-nDa .auto-group-e6yk-BFi .support-HpY .auto-group-i2bw-NLC .need-any-help-dont-phz {
+  width: 30.3rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.171875;
+  letter-spacing: -0.001rem;
+  color: #1d2c3c;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .purchase-nDa .auto-group-e6yk-BFi .support-HpY .auto-group-i2bw-NLC .need-any-help-dont-phz .need-any-help-dont-phz-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.001rem;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .purchase-nDa .auto-group-e6yk-BFi .support-HpY .auto-group-i2bw-NLC .need-any-help-dont-phz .need-any-help-dont-phz-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -0.001rem;
+  color: #646e7a;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .auto-group-cdfa-vc4 .purchase-nDa .auto-group-e6yk-BFi .poweredbystripe-BD6 {
+  margin-left: 0.3rem;
+  width: 9.2rem;
+  height: 2.0101rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja {
+  box-sizing: border-box;
+  padding: 4.2rem 3.7rem 4.2rem 4.4rem;
+  width: 31.2rem;
+  height: 100%;
+  background-color: #1179bf;
+  border-radius: 0 0.6rem 0.6rem 0;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di {
+  width: 100%;
+  height: 61rem;
+  display: flex;
+  flex-direction: column;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .plan-N2g {
+  margin-bottom: 3.6rem;
+  width: 15.8rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .plan-N2g .freelancer-6jN {
+  margin: 0rem 0rem 0.5rem 0.2rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.001rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .plan-N2g .pricing-QVA {
+  margin: 0rem 1.8rem 0.3rem 0rem;
+  width: calc(100% - 1.8rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .plan-N2g .pricing-QVA .item--wEC {
+  margin: 0rem 0.6rem 1.7rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.0015rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .plan-N2g .pricing-QVA .year-SAx {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.171875;
+  letter-spacing: -0.0015rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .plan-N2g .pricing-QVA .year-SAx .year-SAx-sub-0 {
+  font-size: 6rem;
+  font-weight: 300;
+  line-height: 1.2;
+  letter-spacing: -0.0015rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .plan-N2g .pricing-QVA .year-SAx .year-SAx-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.0015rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .plan-N2g .automatically-renews-MSL {
+  margin-left: 0.2rem;
+  max-width: 15.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0008rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .details-egL {
+  margin: 0rem 0rem 4.1rem 0.1rem;
+  width: 17rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .details-egL .auto-group-mhun-nXe {
+  margin-bottom: 0.1rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .details-egL .auto-group-mhun-nXe .auto-group-c3ty-Xk8 {
+  margin: 0.1rem 1.1rem 0rem 0rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .details-egL .auto-group-mhun-nXe .auto-group-c3ty-Xk8 .combined-shape-UQU {
+  margin-bottom: 1.6rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .details-egL .auto-group-mhun-nXe .auto-group-c3ty-Xk8 .combined-shape-copy-R4p {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .details-egL .auto-group-mhun-nXe .use-on-5-client-site-ZRv {
+  max-width: 13.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .details-egL .auto-group-mhun-nXe .use-on-5-client-site-ZRv .use-on-5-client-site-ZRv-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .details-egL .auto-group-mhun-nXe .use-on-5-client-site-ZRv .use-on-5-client-site-ZRv-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .details-egL .auto-group-mhun-nXe .use-on-5-client-site-ZRv .use-on-5-client-site-ZRv-sub-2 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .details-egL .combined-shape-copy-2-cHi {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .switch-A4L {
+  margin: 0rem 0rem 4.1rem 0.2rem;
+  width: 18.4rem;
+  height: 5.1rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .switch-A4L .need-20-client-sites-h4G {
+  width: 15.1rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.171875;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .switch-A4L .need-20-client-sites-h4G .need-20-client-sites-h4G-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .switch-A4L .need-20-client-sites-h4G .need-20-client-sites-h4G-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .switch-A4L .need-20-client-sites-h4G .need-20-client-sites-h4G-sub-2 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .switch-A4L .need-20-client-sites-h4G .need-20-client-sites-h4G-sub-3 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .switch-A4L .need-20-client-sites-h4G .need-20-client-sites-h4G-sub-4 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.0008rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .switch-A4L .need-20-client-sites-h4G .need-20-client-sites-h4G-sub-5 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .switch-A4L .need-20-client-sites-h4G .need-20-client-sites-h4G-sub-6 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .switch-A4L .rectangle-11-4qr {
+  opacity: 0.504;
+  width: 18rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 0;
+  top: 4.7rem;
+  background-color: rgba(185, 245, 255, 0.5035665631);
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .quote-b56 {
+  width: 22.7rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .quote-b56 .rectangle-3-YFE {
+  margin-bottom: 4.1rem;
+  opacity: 0.201;
+  width: 22.4rem;
+  height: 0.2rem;
+  background-color: rgba(255, 255, 255, 0.2005208284);
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .quote-b56 .ftp-is-horrible-to-d-s2c {
+  margin: 0rem 0rem 1.7rem 0.2rem;
+  max-width: 22.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: -0.0009rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .quote-b56 .ftp-is-horrible-to-d-s2c .ftp-is-horrible-to-d-s2c-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: -0.0009rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .quote-b56 .ftp-is-horrible-to-d-s2c .ftp-is-horrible-to-d-s2c-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3333333333;
+  letter-spacing: -0.0009rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .quote-b56 .ftp-is-horrible-to-d-s2c .ftp-is-horrible-to-d-s2c-sub-2 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: -0.0009rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .quote-b56 .auto-group-zua4-eb6 {
+  margin-right: 9.6rem;
+  width: calc(100% - 9.6rem);
+  height: 4rem;
+  display: flex;
+  align-items: center;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .quote-b56 .auto-group-zua4-eb6 .bitmap-nBW {
+  margin-right: 1.4rem;
+  width: 4rem;
+  height: 100%;
+  background-color: #d8d8d8;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .quote-b56 .auto-group-zua4-eb6 .bitmap-nBW .auto-group-8ese-8WG {
+  width: 4rem;
+  height: 4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .auto-group-tx6l-o1e .sidebar-Vja .side-bar-content-2Di .quote-b56 .auto-group-zua4-eb6 .kirk-beard-rhA {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .wp-pusher-ivs-J3N {
+  margin-left: 2.5rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2000000817;
+  color: #636b6f;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .wp-pusher-ivs-J3N .wp-pusher-ivs-J3N-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #636b6f;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .panel-Uzx .wp-pusher-ivs-J3N .wp-pusher-ivs-J3N-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #31708f;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group-Sn8 .wp-pusher-3X2 .auto-group-feoe-mKr .frame-1-PU8 {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 0;
+  top: 9rem;
+  overflow: hidden;
+}
